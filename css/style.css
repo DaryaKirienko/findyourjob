@@ -253,7 +253,6 @@ body {
     margin-right: auto;
     margin-left: auto;
   }
-
   .offer-title {
     text-align: center;
     margin-left: 0;
@@ -290,7 +289,6 @@ body {
     padding: 20px;
   }
 }
-
 @media (max-width: 576px) {
   .footer {
     text-align: center;
