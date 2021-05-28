@@ -237,6 +237,9 @@ body {
   color: #111238;
   text-decoration: none;
 }
+.hero-image {
+  max-width: 100%;
+}
 
 @media (max-width: 1200px) {
   .offer-salary {
